@@ -312,8 +312,13 @@ class Home extends React.Component {
 
                             </div>
                             <div class="jumbotron text-center" id="footer">
+                            <h2 class="contact">Catch Me</h2>
+                            <h6>phone:8778161679</h6>
+                            <br/>
                                 <ul class="nav justify-content-center">
                                     <li class="nav-item">
+                                   
+                                   
                                         <a href="https://www.linkedin.com/in/sri-k-1332b226a"
                                         class="fa fa-linkedin nav-link"
                                         style={{color:"blue"}}
@@ -350,6 +355,9 @@ class Home extends React.Component {
                                         />
                                     </li>
                                 </ul>
+                                <br/>
+                                <br/>
+                                <h6>mail : harikarthik508@gmail.com</h6>
                             </div>
                         </div>
 
