@@ -74,6 +74,7 @@ class Home extends React.Component {
                                     willingness to learn in and grow with the organization.
 
                                 </p>
+                                <img src="https://camo.githubusercontent.com/c5ce34e44b28514be89491d36fa14cf3c54626a331838a33b3b2fd89857b9a99/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f77364166673566435838685f776b5731464432584c4d4f754b554f58565439744e32684a576d686c3652632f72733a6669743a3830303a3630303a312f673a63652f6148523063484d364c79396a5a4734752f5a484a70596d4a6962475575593239742f4c33567a5a584a7a4c7a45784e6a49772f4e7a637663324e795a575675633268762f64484d764d7a67304f446b784e4339772f636d396e636d4674625756794c6d64702f5a672e676966"></img>
                             </div>
                             
                             </div>
@@ -99,6 +100,7 @@ class Home extends React.Component {
                                             <li>
                                                 git , netlify , heroku  
                                             </li>
+                                            <img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"></img>
                                             <div className="right-side">
         <div className="about-images">
           <img src="https://github.com/SanJay1577/portfolio/blob/master/src/Images/HtmlAbout.png?raw=true" alt="html" />
